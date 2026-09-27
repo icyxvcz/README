@@ -24,5 +24,6 @@ the running process, and falls back cleanly when nothing matches.
 
 #### Find me
 
+- Discord — [icy.xvc.z](https://discord.com/users/1299128246507405347)
 - YouTube — [@icyxvc](https://www.youtube.com/@icyxvc)
 - TikTok — [@vl5icy](https://www.tiktok.com/@vl5icy)
